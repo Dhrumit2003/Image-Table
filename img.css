@@ -1,0 +1,13 @@
+*{
+    background-color:darkgrey;
+    margin: 10px;
+    padding: 10px;
+}
+table, tr, th, td{
+    border: 2px solid lightsalmon;
+    border-collapse: collapse;  
+}
+.img1 .img2 .img3 {
+    margin: 500x;
+    padding: 500px;
+}
